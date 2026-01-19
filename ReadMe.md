@@ -16,3 +16,5 @@
 [![](https://visitcount.itsvg.in/api?id=yashuka&icon=0&color=2)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+[![roadmap.sh](https://roadmap.sh/card/wide/696b9ceeb834537637e21926?variant=dark&roadmaps=)](https://roadmap.sh)
