@@ -17,4 +17,4 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-[![roadmap.sh](https://roadmap.sh/card/wide/696b9ceeb834537637e21926?variant=dark&roadmaps=)](https://roadmap.sh)
+[[![roadmap.sh](https://roadmap.sh/card/wide/696b9ceeb834537637e21926?variant=dark&roadmaps=)](https://roadmap.sh)](https://roadmap.sh/card/tall/696b9ceeb834537637e21926?variant=dark)
