@@ -1,11 +1,10 @@
 # Hi, I'm Yogesh Sahu 👋
 
-🎓 Final-year BCA student, Bundelkhand University
-🔭 Building full-stack projects with the MERN stack (MongoDB, Express, React/Next.js, Node.js) + TypeScript
-🧪 Preparing for SDET-1 / Full-Stack JS Developer roles — focused on Playwright, TypeScript, and testing practices
-💼 Completed a frontend development internship at Springal Capital (remote, USA)
-🌱 Currently deepening Node.js, Express, MongoDB, and test automation
-📍 Based in Datia, Madhya Pradesh, India — open to remote opportunities
+- 🎓 Final-year BCA student, Bundelkhand University
+- 🔭 Building full-stack projects with the MERN stack (MongoDB, Express, React/Next.js, Node.js) + TypeScript
+- 🧪 Preparing for SDET-1 / Full-Stack JS Developer roles — focused on Playwright, TypeScript, and testing practices
+- 💼 Completed a frontend development internship at Springal Capital (remote, USA)
+- 🌱 Currently deepening Node.js, Express, MongoDB, and test automation
 
 ## 🚀 Projects
 
@@ -15,10 +14,10 @@
 
 ## 🛠️ Tech Stack
 
-**Frontend:** HTML, CSS, JavaScript, TypeScript, React, Next.js, Tailwind CSS
-**Backend:** Node.js, Express, MongoDB
-**Testing:** Playwright
-**Tools:** Git, GitHub, Postman
+#### **Frontend:** HTML, CSS, JavaScript, TypeScript, React, Next.js, Tailwind CSS
+#### **Backend:** Node.js, Express, MongoDB
+#### **Testing:** Playwright
+#### **Tools:** Git, GitHub, Postman
 
 ## 🌐 Connect
 
